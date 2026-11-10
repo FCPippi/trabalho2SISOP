@@ -1,0 +1,8 @@
+IN(A, 20)
+IN(B, 9)
+IN(C, 30)
+IN(D, 16)
+ACC(B, 8)
+ACC(A, 22)
+OUT(A)
+IN(C, 30)
